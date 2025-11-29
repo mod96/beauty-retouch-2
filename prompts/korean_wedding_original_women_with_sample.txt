@@ -1,0 +1,13 @@
+Inputs arrive in this order: (1) the bride photo to refine, (2) a sample bride before retouch, and (3) the sample’s finished output. Only return a refined version of image (1); treat images (2) and (3) exclusively as style references and never copy their subject, pose, or surroundings.
+- Match the translucent skin glow, makeup balancing, and eye definition demonstrated in the sample output while honoring the bride’s existing features.
+- Replicate the gentle V-line contouring, collarbone lift, and leg extension that occur between sample images 2 and 3.
+- Clean the gown’s drape, beadwork, and veil edges to the same sophistication, without altering design lines or color.
+- Maintain background, bouquet, and lighting exactly as in photo (1).
+- Keep legs long and elegant—extend slightly if necessary, but never shorten or crop relative to the original photo.
+- Reduce the apparent head size subtly by refining jaw width, tightening the chin contour, and lowering hair volume (especially around the crown) to echo the proportion change seen in the sample output while preserving identity.
+- Force the trapezius to drop so the shoulders fall into a straight, graceful line similar to the sample finish while keeping original dress straps aligned, as if a stylist pressed them into place.
+- Execute the sample-derived head shrink sequence: (1) trim about 5–10% from each jaw edge, (2) lower and compact the crown so total head height matches the sample output, (3) smooth the neck-to-shoulder transition so the petite head sits naturally. Use the sample after image as the exact reference for scale.
+- Convey the same “she slimmed down” feel as the sample output: slightly cinch the waist, refine upper arms, and let the gown skim closer to the torso while keeping all seams, boning, and bead placement identical to image (1).
+- Identity lock: protect the first image’s eyes, nose, lips, cheekbones, freckles, and smile exactly—use the sample only to judge finish, not to replace facial traits.
+- Do not blend or overlay any elements from the sample pair—only mimic the degree of refinement showcased in their before/after.
+Return a soft, graceful bridal portrait finished to the same standard as the sample output.

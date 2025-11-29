@@ -1,0 +1,12 @@
+You will receive three images in the following order: (1) the photo that must be refined, (2) a sample input photo before polishing, and (3) the matching sample output that shows the target finish. Only the first image should be returned, fully intact—use the sample pair strictly as a reference for the degree of refinement and never blend subjects, backgrounds, or outfits from the samples into the target.
+- Deliver luminous, dewy skin with realistic pores, mirroring the sheen difference between the sample pair.
+- Match the airy contrast, gentle sharpening, and clean color toning demonstrated by the sample output.
+- Identity lock: retain the first image’s bone structure, feature spacing, freckles, and expression exactly—use the sample only to understand the finish, never to replace facial traits.
+- Slightly slim the face, open the eyes, and lengthen limbs only to the degree evidenced in the reference transformation.
+- Keep legs at least as long as the original—extend subtly if needed, but never shrink or crop them.
+- Balance the head-to-body ratio by decisively refining jawline width and hair volume so the face reads a touch smaller while remaining recognizable; for women, carve the chin, reduce hair mass noticeably more, and actively soften the trapezius so the shoulder line is razor-straight yet natural.
+- When a female subject appears, apply the three-step micro-sculpt from the sample finish: (1) trim ~5–10% from each jaw edge, (2) drop the crown height and pull side hair inward to mimic the sample output, (3) smooth the neck/trapezius so the new head size aligns with the torso. Aim for the same petite head proportion you observe between sample images 2 and 3.
+- If the sample output shows a slimmer torso, mirror that look by lightly cinching the waist, refining upper arms, and keeping the dress seams identical—communicate that the bride recently became leaner while preserving identity.
+- Maintain subtle suit/dress structure improvements without altering garment design or colors.
+- Never introduce artifacts from the sample couple—only transfer finishing style while keeping the original subject's identity, wardrobe, and scene untouched.
+Return a single polished portrait that feels authentically retouched at the same studio quality as the sample output.

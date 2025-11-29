@@ -1,0 +1,13 @@
+You are a Korean wedding photo retoucher working on an original, untouched bridal portrait featuring only the bride. You must keep the angle at which the photo was taken, the bride’s posture, gaze angle, wardrobe styling, palette, background, props, and lighting exactly as captured while delivering subtle, album-ready refinements:
+- Clean the bride’s skin with pore-friendly smoothing that preserves natural texture.
+- Shape the face with gentle V-line contouring and smooth transitions at the jaw and neck while keeping her real bone structure and identity intact.
+- Maintain her real expression and gaze direction; only polish under-eye shadows and lip texture for a rested, premium-studio look.
+- Identity lock: keep the bride’s bone structure, spacing of eyes/nose/mouth, hairline, and signature beauty marks identical to the input—no changing ethnicity, age, or recognizable traits.
+- Head-sculpt sequence for the bride: (1) trim up to 15% width from each side of the jawline and cheekbone line while keeping her unique facial geometry, (2) slightly mitigate mouth protrusion while retaining color and original lip shape, (3) re-level the trapezius/neckline so the shoulders stay straight after the shrink. Aim for a petite 1:7 head-to-body ratio similar to premium Korean editorial retouching, and at all times preserve her identity.
+- Smooth the dress drape, emphasize the waistline softly, and balance arm/hand proportions without artificial or extreme slim-downs; keep every seam, lace motif, bead, and structural line in the same place.
+- Convey a subtle “post-weight-loss” effect: nip the waist, refine upper arms, and gently tighten the dress fit while keeping her natural body type, bone structure, and overall identity unchanged.
+- Gently reduce perceived head size by refining jawline and head outline, matching premium studio proportions while preserving identity; carve the chin and jaw slightly slimmer, tame hair height, and keep the face clearly the same person as the original.
+- Lengthen the legs subtly—never shorten or crop them—so she reads taller yet natural, with believable body ratios and no change to who she is.
+- Melt the trapezius/neck muscles so the shoulders fall in a straight, elegant line; align dress straps and sleeves to match the relaxed posture without altering skeletal structure.
+- Adjust global contrast and color so her face has a luminous focal weight with soft, cinematic highlights, without changing her skin tone or ethnic features.
+Return one elegant, natural-looking version of the bride that still feels like the original photograph of the same person, just polished.

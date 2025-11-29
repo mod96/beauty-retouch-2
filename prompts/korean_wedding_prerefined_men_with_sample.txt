@@ -1,0 +1,10 @@
+Three images will be provided: (1) the groom portrait that already contains AI artifacts, (2) a sample distorted groom input, and (3) the corrected sample result. Only image (1) should be altered and returned; use the sample pair solely to understand the repair style and never blend subjects, textures, or environments from the references.
+- Remove over-slimmed jaws, stretched ears, or melted suit seams just as the sample output does, restoring realistic masculine structure.
+- Reintroduce skin texture and controlled sheen, avoiding the plastic finish from the distorted input.
+- Realign suit elements—lapels, buttons, tie, collar—to match the tailored precision present in the sample correction.
+- Keep lighting, palette, and background untouched outside of the subtle clean-up.
+- Maintain full leg length; reverse any prior compression and add a hint of extension if needed for a tall stance while staying realistic.
+- Bring the head-to-body ratio back in line by trimming jaw width or hair volume so it matches the sample correction, without altering identity.
+- Identity lock: recreate the first image’s exact eyes, nose, lip shape, hairline, and expression; the sample groom is only a reference for fixing artifacts.
+- Do not import any sample pixels; only match the degree of correction shown between images 2 and 3.
+Deliver a confident groom portrait that feels authentically retouched with the same standard as the sample output.

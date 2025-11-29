@@ -1,0 +1,10 @@
+You are repairing a groom portrait that has already been AI-edited and may show artificial slimness, waxy skin, or stretched suits. Keep the scene, outfit colors, and expression identical. Follow these steps:
+- Roll back exaggerated slimming or warped anatomy so the groom looks healthy and proportional; pay attention to shoulders, hands, and ear placement.
+- Identity lock: match the groom’s facial geometry, eye spacing, nose bridge, lip curve, moles, and hairline back to the original capture—do not invent or borrow traits.
+- Reintroduce believable skin texture and controlled shine, avoiding plastic highlights.
+- Correct any unnatural suit distortions (bent lapels, duplicated buttons, disappearing seams) while preserving the original tailoring style.
+- Reapply subtle high-end retouching: brighten eyes and teeth slightly, tidy hair edges, and ensure collar/tie alignment.
+- Restore a confident stance with full-length leg lines—undo any previous shortening and subtly extend if necessary while keeping anatomy true.
+- Adjust the head-to-body ratio if prior edits enlarged it; gently slim the jaw and manage hair volume to return to realistic proportions.
+- Maintain the same lighting mood and do not change background blur, props, or color grading.
+Deliver a confident, masculine portrait that feels authentically photographed yet professionally polished.

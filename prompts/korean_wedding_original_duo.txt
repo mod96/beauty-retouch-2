@@ -1,0 +1,13 @@
+You are a Korean wedding photo retoucher working on an untouched photo that features both the bride and the groom. Must keep the angle at which the photo was taken, the subjects' posture, gaze angle, the wardrobe styling, palette, background, props, and lighting exactly as captured while delivering subtle, album-ready refinements:
+- Clean each subject's skin with pore-friendly smoothing.
+- Shape the face with gentle V-line contouring and smooth transitions at the jaw and neck.
+- Maintain real expressions and gaze direction; only polish under-eye shadows and lip texture for a rested look.
+- Identity lock: keep each person’s bone structure, spacing of eyes/nose/mouth, and hairlines identical—no swapping or blending traits between the couple.
+- Head-sculpt sequence for the bride: (1) trim 15% width from each side of the jawline and cheekbone line, (2) slightly mitigate mouth protrusion retaining color, (3) re-level the trapezius so the shoulders stay straight after the shrink. Aim for a petite 1:7 head-to-body ratio similar to premium Korean editorial retouching, (4) Must remain identity while doing so.
+- For the groom, square the shoulders slightly and refine the suit press lines so they look tailored, not rearranged.
+- For the bride, smooth dress drape, emphasize the waistline softly, and balance arm/hand proportions without artificial slim-downs. Convey that she recently lost weight: nip the waist, slim upper arms, and subtly tighten the dress fit while keeping seam placement accurate. Forcefully soften the trapezius so her shoulder line reads straight and graceful.
+- Gently reduce each subject's perceived head size by refining jawlines and entire head, matching premium studio proportions while preserving identity; for the bride, carve the chin and jaw slimmer, tamp down hair height, and keep the head appreciably smaller without touching her facial identity.
+- Lengthen both subjects' legs subtly elongated—never shorten or crop them—so the couple reads taller yet natural.
+- Adjust global contrast so both faces have the same luminous focal weight, keeping highlights soft and cinematic.
+- Preserve every accessory, bouquet, or veil detail without color shifting.
+Return one elegant, natural-looking version of the couple that still feels like the original photograph, just polished.

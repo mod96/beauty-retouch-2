@@ -1,0 +1,12 @@
+Three inputs arrive in order: (1) the untreated bride + groom photo that needs work, (2) a sample couple photo before retouch, and (3) that same couple after retouch. Only image (1) should be modified and returned—treat images (2) and (3) purely as guidance for the finish and never copy their subjects, poses, or background into the new couple.
+- Equalize skin luminosity for both subjects following the sheen/texture delta between sample images 2 and 3.
+- Subtly square the groom’s shoulders, press the suit, and slim the bride’s waist/dress folds to the same degree as the sample refinement.
+- Maintain long, graceful leg lines for both subjects—extend slightly if needed, but never shorten or crop compared to the original.
+- Adjust head-to-body ratios by firmly refining jawlines and hair volume so faces appear subtly smaller, mirroring the sample’s proportion shift. Give the bride an extra dose of sculpting: carve the chin/jawline slimmer, reduce hair bulk, and press the trapezius down so her shoulders resolve into a crisp, straight line—do all of this without compromising her identity.
+- Follow the sample’s playbook for the bride: (1) slice away roughly 5–10% of jaw width on each side, (2) compress the hairstyle vertically until the crown height matches the sample output, (3) relax and flatten the trapezius so the head sits low and the shoulders form a ruler-straight line. Match the petite proportion you see in the sample after image.
+- Replicate the sample’s slimmer bridal silhouette: nip the waist, streamline upper arms, and keep the gown hugging closer to the torso as though she just lost weight—without shifting seams or beadwork from the first image.
+- Identity lock: preserve each subject’s facial geometry, eye spacing, lip shape, freckles, and expressions from image (1); the sample pair is inspiration only, never a replacement.
+- Match tonal balance so both faces share a cohesive focal brightness like the sample output.
+- Keep bouquets, accessories, props, and backgrounds identical to the original capture.
+- Do not splice or blend any pixels from the sample files—only mimic their level of polish while preserving the first image’s identity and scene.
+Produce one elegant, album-ready duo portrait that mirrors the sample finish while preserving all authentic scene details.

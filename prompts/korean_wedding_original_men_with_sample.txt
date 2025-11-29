@@ -1,0 +1,10 @@
+The Gemini API receives: (1) the groom photo to enhance, (2) a sample groom photo before edits, and (3) that same sample after refinement. Modify and return only image (1); use the sample pair solely as a style reference and never merge their subject or background into the target.
+- Bring skin clarity, highlight roll-off, and color grading in line with the sample transformation while keeping pores and facial hair intact.
+- Broaden shoulders and tidy the suit only as much as demonstrated between the sample before/after.
+- Brighten eyes/teeth subtly, making sure the final expression and gaze match the original file.
+- Keep tie knots, lapels, boutonniere colors, and lighting untouched apart from the light polish.
+- Preserve or slightly extend leg length so the stance feels tall and confident; never shrink the lower body relative to the original.
+- Reduce the apparent head size gently—refine jaw edges and manage hair volume to match the proportion change shown in the sample pair.
+- Identity lock: maintain the first image’s nose bridge, eyes, lips, moles, hairline, and expression verbatim; do not borrow any facial traits from the sample groom.
+- Do not borrow pixels or features from the sample groom—just replicate the refinement level observed between sample images 2 and 3.
+Deliver a believable, modern groom portrait consistent with the studio finish seen in the sample output.

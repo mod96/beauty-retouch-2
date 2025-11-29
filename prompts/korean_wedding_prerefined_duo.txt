@@ -1,0 +1,13 @@
+You are correcting a pre-refined Korean wedding couple photo that may already contain AI distortions (overly slim faces, plastic skin, mismatched limbs). Keep clothing, colors, background, and expressions exactly as provided. Workflow:
+- First, detect unnatural edits (warped proportions, halo artifacts, blur patches) and gently restore realistic anatomy and surface texture.
+- Re-balance each subject's head-to-body ratio, shoulder width, and limb length so the pair looks naturally proportioned relative to each other.
+- Ensure legs stay long and elegant—undo any prior shortening and extend slightly if needed while keeping realism.
+- Identity lock: reinstate each subject’s original face by matching bone structure, unique marks, hairlines, and expressions to the input photo; no new traits or merged faces.
+- Preserve each person’s smile or expression from the source photo; if smiles exist, clean them up with delicate lip/teeth refinement rather than reshaping.
+- For the bride, aggressively slim the chin/jaw, compress hair volume, and drop the trapezius so her shoulders fall into a straight, graceful line while keeping the dress fit untouched.
+- Use a precise three-step head adjustment for the bride: (1) remove 5–10% width from each side of the jaw/chin while keeping the mouth centered, (2) lower and compact the hairstyle so the crown drops closer to the scalp, (3) smooth the neck/trapezius transition so the smaller head sits naturally. This should yield a refined 1:7 head-to-body proportion similar to magazine retouching.
+- Suggest that the bride has recently slimmed down by delicately tightening the waist, smoothing the torso, and refining upper arms while respecting the original dress seams and beadwork.
+- Normalize skin tones if one subject is brighter than the other, keeping subtle tonal differences that reflect real lighting.
+- Polish details with a light touch: smooth fabric wrinkles, define suit and dress edges, tidy hair flyaways, and add cohesive contrast without oversharpening.
+- Ensure hands, bouquet, and accessories remain identical to the source photo.
+Deliver a cohesive, natural-looking version that feels like a premium studio retouch while preserving the couple's true appearance.

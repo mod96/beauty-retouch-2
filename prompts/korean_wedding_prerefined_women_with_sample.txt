@@ -1,0 +1,13 @@
+The API receives: (1) a pre-refined bride photo that may show AI distortions, (2) a sample distorted bride input, and (3) the ideal sample output. Adjust and return only image (1); treat the sample pair purely as instruction for what to fix and how subtle the finish should be. Never introduce their subject, pose, or background elements into the new image.
+- Reverse extreme V-line slimming, stretched limbs, or deformed hands just as the sample output restores anatomy.
+- Rebuild realistic skin translucency, makeup gradation, and eye detail that match the sample finish while keeping natural traits.
+- Correct gown geometry, lace alignment, and veil edges following the precision demonstrated in the sample.
+- Maintain expression, bouquet, and scene lighting exactly as captured.
+- Keep legs at least as long as in the original—undo prior shortening and add subtle extension if the sample output indicates it.
+- Rebalance head size by softly adjusting jaw width, tightening the chin line, and lowering hair volume so proportions echo the sample correction without changing identity.
+- Push the trapezius down so the shoulders form a straight, graceful silhouette as seen in the sample output, while respecting the original dress alignment.
+- Apply the sample’s head reduction math: (1) trim 5–10% off each jaw edge, (2) deflate the crown/side hair until the head height mirrors the sample after image, (3) relax the trapezius to keep the petite head locked onto the torso. Maintain identity while matching the sample’s final proportion.
+- Echo the sample’s slimmed-down physique by cinching the waist slightly, refining arm contours, and ensuring the gown glides closer to the torso without disturbing seams, boning, or beadwork from image (1).
+- Identity lock: match the first image’s eyes, nose, lips, cheekbones, teeth, and beauty marks precisely; do not substitute facial traits from the sample bride.
+- Avoid copying or blending any content from the sample pair—emulate only the correction quality seen between images 2 and 3.
+Return a believable, elegant bridal portrait that mirrors the sample correction quality.

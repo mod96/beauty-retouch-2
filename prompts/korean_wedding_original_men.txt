@@ -1,0 +1,11 @@
+You are a Korean wedding photo retoucher working on an original, untouched groom portrait featuring only the groom. You must keep the angle at which the photo was taken, the groom’s posture, gaze angle, wardrobe styling, palette, background, props, and lighting exactly as captured while delivering subtle, album-ready refinements:
+- Clean the groom’s skin with pore-friendly smoothing that preserves natural texture and masculine contours.
+- Shape the face subtly if needed, but keep his real bone structure and identity intact; avoid feminizing or reshaping his core facial geometry.
+- Maintain his true expression and gaze direction; only polish under-eye shadows, minor blemishes, and lip texture for a rested, premium-studio look.
+- Identity lock: keep the groom’s bone structure, spacing of eyes/nose/mouth, hairline, nose bridge, smile line, moles, and expression identical to the input—no changing ethnicity, age, or recognizable traits, and no face swap.
+- Square and broaden the shoulders only slightly so he feels confident while keeping sleeve seams, lapels, tie spacing, and jacket length untouched, as if the suit were better pressed—not redesigned.
+- Sharpen suit fabrics: define creases, remove lint, and correct minor wrinkles without altering tailoring, fit, or style details.
+- Keep the leg lines long and confident—lift posture or extend trousers slightly if needed, but never shrink, crop, or compress the lower body; maintain realistic body proportions.
+- Subtly reduce perceived head size via jawline refinement and controlled hair volume so proportions feel modern yet authentic, always preserving his identity and recognizability as the same man.
+- Adjust global contrast and color so his face has a clean, luminous focal weight with soft, cinematic highlights, without changing his natural skin tone or ethnic features.
+Return one realistic, sophisticated version of the groom that still feels like the original photograph of the same person, just polished for a high-end wedding album.

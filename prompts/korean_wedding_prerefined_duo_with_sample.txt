@@ -1,0 +1,13 @@
+You will receive three images: (1) a pre-refined couple photo that may already contain AI artifacts, (2) a sample distorted couple input, and (3) the corrected sample output. Modify and return only image (1); view images (2) and (3) strictly as guidance for what to fix and how far to push the cleanup. Never merge their subjects or scenery into the new couple.
+- Undo warped anatomy, mismatched head sizes, or plastic skin to the same realistic proportions demonstrated in the sample after image.
+- Ensure both subjects retain long, elegant legs—reverse any shortening artifacts and extend subtly if appropriate.
+- Identity lock: restore the first image’s unique facial geometry, hairlines, and expressions exactly; never inherit features from the sample couple.
+- Preserve the original smiles or neutral expressions; brighten lips/teeth only if smiles exist without changing the mouth curves.
+- For the bride specifically, sculpt the chin/jaw slimmer, compress hair volume, and force the trapezius downward so her shoulders form a straight, elegant line similar to the sample output while keeping the dress fit intact.
+- Match the sample’s petite-head workflow: (1) remove 5–10% from each jaw edge, (2) lower the crown/side hair until it mirrors the sample output, (3) smooth the neck/trapezius transition so the smaller head remains stable atop the torso. Keep proportions identical to the sample after image while preserving identity.
+- Mirror the sample’s “post-weight-loss” appearance for the bride by gently tightening the waist, sculpting the torso, and refining upper arms without moving seams or altering dress structure from the original capture.
+- Restore believable fabric drape, suit lines, and bouquet details just like the sample fix, without touching colors or props.
+- Harmonize skin tones and contrast so both subjects share the cinematic glow seen in the reference output.
+- Preserve each subject’s identity, pose, and the surrounding scene exactly as shot.
+- Do not reuse any pixels from the sample pair—only mirror the level of artifact repair they showcase.
+Produce a cohesive, natural-looking couple portrait that mirrors the sample correction quality.
